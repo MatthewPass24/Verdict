@@ -15,7 +15,6 @@ Usage
     python var_system.py --calibrate sample_match.mp4 --cam cam1   # mark zones once
     python var_system.py
 """
-"import statements"
 import argparse
 import json
 import os
